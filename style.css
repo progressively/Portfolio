@@ -1,0 +1,9 @@
+.navbar-brand img{
+    height: 45px;
+}
+
+body{
+    background-image: url("image/forest.jpeg");
+    background-repeat: none;
+    background-size: cover;
+}
