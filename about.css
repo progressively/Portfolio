@@ -1,10 +1,15 @@
+.navbar-brand img{
+    height: 30px;
+    width: 30px;
+}
+
 body{
     background-image: url("image/downtown.jpg");
     background-repeat: none;
     background-size: cover;
     font-family: 'Oswald', sans-serif;
 }
-
 .navbar-brand {
     font-family: 'Oswald', sans-serif;
+    font-size: 100%;
 }

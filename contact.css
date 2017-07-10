@@ -1,9 +1,10 @@
 body{
-     background-image: url("image/fall background.jpg");
+    background-image: url("image/fall background.jpg");
     background-repeat: none;
     background-size: cover;
     font-family: 'Oswald', sans-serif;
 }
 .navbar-brand {
     font-family: 'Oswald', sans-serif;
+    font-size: 100%;
 }
