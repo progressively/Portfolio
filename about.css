@@ -4,6 +4,9 @@ body{
     background-size: cover;
     font-family: 'Oswald', sans-serif;
 }
+.thumbnail{
+    background-image: url("image/me.JPG");
+}
 .navbar-brand {
     font-family: 'Oswald', sans-serif;
     font-size: 100%;

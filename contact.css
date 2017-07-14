@@ -4,28 +4,59 @@ body{
     background-size: cover;
     font-family: 'Oswald', sans-serif;
 }
+h1 {
+   -webkit-text-stroke: .25px white;
+}
+h1 {
+    color: peru;
+    font-size: 300%;
+    padding: 12px 20px;
+    font-weight: 300;
+}
+
+form {
+    width: 50%;
+    margin: 0px 0px 0px 30px;
+}
+.in3{
+    display: block;
+    width: 50%;
+    height: 100px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+label {
+    float: above;
+    color: white;
+    padding: 0px 20px;
+    font-weight: 300;
+    font-size: 125%;
+}
 .navbar-brand {
     font-family: 'Oswald', sans-serif;
     font-size: 100%;
 }
 
-input[type=text], select {
+textarea {
     width: 100%;
-    padding: 12px 20px;
+}
+
+input[type=text], select {
     margin: 8px 0;
-    display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
 }
 
 input[type=submit] {
-    width: 100%;
     background-color: #4CAF50;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
-    border: none;
+    border: 1px gray;
     border-radius: 4px;
     cursor: pointer;
 }
