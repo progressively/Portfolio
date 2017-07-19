@@ -11,3 +11,15 @@ body{
     font-family: 'Oswald', sans-serif;
     font-size: 100%;
 }
+.thumbnail{
+     padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 30px;
+    border-radius: 20px;
+}
+.thumbnail img{
+    height: 300px;
+    width: 200px;
+    padding-left: -100px;
+    padding-right: -100px;
+}
