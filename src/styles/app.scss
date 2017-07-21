@@ -1,5 +1,5 @@
 .navbar-brand img{
-    float: left;
+    float:left;
     height: 30px;
     width: 30px;
     margin: -5px 15px;
@@ -13,6 +13,26 @@ body{
 }
 
 .navbar-brand {
+    font-family: 'Oswald', sans-serif;
+    font-size: 100%;
+}
+
+.navbar-brand img{
+    float: left;
+    height: 30px;
+    width: 30px;
+    margin: -5px 15px;
+}
+
+body{
+    background-image: url("../../image/forest.jpeg");
+    background-repeat: none;
+    background-size: cover;
+    font-family:'Oswald', sans-serif;
+}
+
+.navbar-brand {
+    background-color: none;
     font-family: 'Oswald', sans-serif;
     font-size: 100%;
 }

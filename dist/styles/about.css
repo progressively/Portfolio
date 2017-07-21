@@ -1,0 +1,24 @@
+body {
+  background-image: url("../../image/downtown.jpg");
+  background-repeat: none;
+  background-size: cover;
+  font-family: 'Oswald', sans-serif; }
+
+.thumbnail {
+  background-image: url("image/me.JPG"); }
+
+.navbar-brand {
+  font-family: 'Oswald', sans-serif;
+  font-size: 100%; }
+
+.thumbnail {
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-right: 30px;
+  border-radius: 20px; }
+
+.thumbnail img {
+  height: 300px;
+  width: 200px;
+  padding-left: -100px;
+  padding-right: -100px; }
