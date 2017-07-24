@@ -1,0 +1,62 @@
+.navbar-brand img {
+  float: left;
+  height: 30px;
+  width: 30px;
+  margin: -5px 15px; }
+
+body {
+  background-image: url("image/forest.jpeg");
+  background-repeat: none;
+  background-size: cover;
+  font-family: 'Oswald', sans-serif; }
+
+.navbar-brand {
+  font-family: 'Oswald', sans-serif;
+  font-size: 100%; }
+
+.navbar-brand img {
+  float: left;
+  height: 30px;
+  width: 30px;
+  margin: -5px 15px; }
+
+body {
+  background-image: url("../../image/forest.jpeg");
+  background-repeat: none;
+  background-size: cover;
+  font-family: 'Oswald', sans-serif; }
+
+.navbar-brand {
+  background-color: none;
+  font-family: 'Oswald', sans-serif;
+  font-size: 100%; }
+
+.jumbotron {
+  position: absolute;
+  top: 100px;
+  left: 50px;
+  padding-top: 30px;
+  padding-left: 20px;
+  font-size: 12px;
+  font-weight: 300;
+  color: #959595;
+  display: block;
+  width: 50%;
+  height: 300px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  box-sizing: border-box; }
+
+input[type=button] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: 1px gray;
+  border-radius: 4px;
+  cursor: pointer; }
+
+form {
+  width: 50%;
+  margin: 0px 0px 0px 30px; }
